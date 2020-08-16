@@ -19,10 +19,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="##Proffy">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##License">License</a>
+  <a href="#Proffy">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##Technology-🚀">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##Layout-🚧">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##License-⚖️">License</a>
 </p>
 <p align="center">
     <a href="README.md">Inglês</a>
@@ -30,7 +30,7 @@
     <a href="README-pt.md">Português</a>
 </p>
 
-## Proffy <img src=".github/favicon.png" width="18">
+# Proffy <img src=".github/favicon.png" width="18">
 Project designed to connect teachers and students, made at Next Level Week #2 @Rocketseat
 
 #### Functionalities
