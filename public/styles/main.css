@@ -1,0 +1,66 @@
+/* ----------------------Geral(padrão)-------------------- */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+/* border: 1px solid var(--color-secondary);/*retirar depois*/
+:root {
+    --color-background: #F0F0F7;
+    --color-background-secondary: #1c1a2b;
+    --color-primary-lighter: #30313a;
+    --color-primary-light: #3b3c46;
+    --color-primary: #282a36;
+    --color-primary-dark: #7bc7ff;
+    --color-primary-darker: #4dacff;
+    --color-secondary: #c401a3;
+    --color-secondary-dark: #a00185;
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #cbc2ff;
+    --color-text-title: #89179e;
+    --color-text-complement: #bd86c7;
+    --color-text-base: #666180;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #f9f8fc;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #f1f1f1;
+    --color-small-info: #C1BCCC;
+}
+
+
+
+/* --------------------------TOP-------------------------- */
+html, body{
+    height: 100vh;
+}
+body{
+    background-color: var(--color-background-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+
+
+/* ----------------------Conteúdo P----------------------- */
+body,
+input,
+button,
+textarea{
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
+}
+#container{
+    max-width: 700px;
+    width: 90vw;
+}
+
+
+
+/* tablet ------------------------------------------------ */
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%;
+    }
+}
