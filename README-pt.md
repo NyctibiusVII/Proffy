@@ -59,6 +59,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    <img src="./.github/mobile_study.png" width="180">
 </div>
 
+## Rodando o projeto 🚴🏻‍♂️
+
+```bash
+
+# Clone o repositório
+$ git clone https://github.com/NyctibiusVII/NLW-2-Discovery.git
+
+# Acesse a pasta do projeto no prompt de comando
+$ cd NLW
+
+# Instale as dependências
+$ npm install
+
+# Execute o script "dev"
+$ npm run dev
+
+# O projeto inciará na porta: 5000 - acesse http://localhost:5000 
+```
+
 ## Contribuição 💭
 Para construir essa aplicação tive a ajuda do professor **Maykbrito** da Rocketseat que disponibilizou video aulas do projeto **NLW#2-Discovery** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
