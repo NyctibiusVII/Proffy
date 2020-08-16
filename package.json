@@ -2,7 +2,8 @@
   "name": "nlw",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "start": "npx nodemon src/server.js"
   },
   "dependencies": {
     "express": "^4.17.1",

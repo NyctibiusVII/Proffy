@@ -9,7 +9,7 @@ nunjucks.configure('src/views', {
     noCache: true, //tira o cache, ou seja, pega sempre o conteúdo mais recente
     
 })
-
+ 
 //Inicio e config. do servidor
 server //configurar arquivos estáticos (css, scripts, imgs)
 .use(express.urlencoded({extended: true}))//receber dados do reg.body
