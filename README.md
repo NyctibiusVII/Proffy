@@ -21,8 +21,8 @@
 <p align="center">
   <a href="#proffy-">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technology-">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license-%EF%B8%8F">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##License-⚖️">License</a>
+  <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license-%EF%B8%8F">License</a>
 </p>
 <p align="center">
     <a href="README.md">Inglês</a>

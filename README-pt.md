@@ -20,9 +20,9 @@
 </p>
 <p align="center">
   <a href="#proffy-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technology-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license-%EF%B8%8F">Licença</a>
+  <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
 <p align="center">
     <a href="README.md">Inglês</a>
