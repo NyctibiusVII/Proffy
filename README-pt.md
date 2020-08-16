@@ -19,10 +19,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="#-Proffy">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologias">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Proffy">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licença">License</a>
+  <a href="#-Licença">Licença</a>
 </p>
 <p align="center">
     <a href="README.md">Inglês</a>
@@ -31,14 +31,14 @@
 </p>
 
 ## Proffy <img src=".github/favicon.png" width="18">
-Project designed to connect teachers and students, made at Next Level Week #2 @Rocketseat
+Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
 
-#### Functionalities
-* Site for student and teacher registration.
-* App to connect students and teachers.
+#### Funcionalidades
+* Site para cadastro de estudante e professores.
+* App para conectar estudantes e professores.
 
-## Technology 🚀
-This project was developed with the following technologies:
+## Tecnologias 🚀
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
@@ -60,16 +60,16 @@ This project was developed with the following technologies:
    <img src="./.github/mobile-favoritos.png" width="180">
 </div>
 
-## Contribution 💭
-To build this application I had the help of the teacher **Maykbrito** from Rocketseat that provided video lessons of the project **NLW#2-Discovery** and I had help from this great community that Rocketseat built in *Discord*.
-Done with ♥ by Rocketseat :wave: [Join our community!](https://discord.gg/YxU7fJT)
+## Contribuição 💭
+Para construir essa aplicação tive a ajuda do professor **Maykbrito** da Rocketseat que disponibilizou video aulas do projeto **NLW#2-Discovery** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
 
-Check out the [Contribution](./CONTRIBUTING.md) to see how to start a discussion and start contributing.
+Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar uma discução e começar a contribuir.
 
-## License ⚖️
-This project is under the MIT license. See the archive [LICENSE](https://github.com/NyctibiusVII/NLW-2-Discovery/blob/master/LICENSE) for more details.
+## Licença ⚖️
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/NLW-2-Discovery/blob/master/LICENSE) para mais detalhes.
 
-## Contact ✉️
+## Contato ✉️
 | [<img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/NyctibiusVII) |
 | :---: |
 
