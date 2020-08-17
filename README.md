@@ -92,7 +92,7 @@ This project is under the MIT license. See the archive [LICENSE](https://github.
 | :---: |
 
 <p align="left">	
-   <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibius-vii/">
+   <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
       <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
    <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
