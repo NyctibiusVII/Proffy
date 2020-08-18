@@ -87,8 +87,8 @@ Check out the [Contribution](./CONTRIBUTING.md) to see how to start a discussion
 ## License ⚖️
 This project is under the MIT license. See the archive [LICENSE](https://github.com/NyctibiusVII/NLW-2-Discovery/blob/master/LICENSE) for more details.
 
-## Contact ✉️
-| [<img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/NyctibiusVII) |
+## Contato ✉️
+| <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
 | :---: |
 
 <p align="left">	
