@@ -67,7 +67,7 @@ This project was developed with the following technologies:
 $ git clone https://github.com/NyctibiusVII/NLW-2-Discovery.git
 
 # Access the project folder at the command prompt
-$ cd NLW
+$ cd NLW2
 
 # Install the dependencies
 $ npm install

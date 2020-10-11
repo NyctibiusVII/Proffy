@@ -67,7 +67,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 $ git clone https://github.com/NyctibiusVII/NLW-2-Discovery.git
 
 # Acesse a pasta do projeto no prompt de comando
-$ cd NLW
+$ cd NLW2
 
 # Instale as dependências
 $ npm install
@@ -82,7 +82,7 @@ $ npm run dev
 Para construir essa aplicação tive a ajuda do professor **Maykbrito** da Rocketseat que disponibilizou video aulas do projeto **NLW#2-Discovery** e tive uma ajuda desta grande comunidade que a Rocketseat construiu no *Discord*.
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/YxU7fJT)
 
-Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar uma discução e começar a contribuir.
+Confira a página de [contribuição](./CONTRIBUTING-pt.md) para ver como começar uma discução e começar a contribuir.
 
 ## Licença ⚖️
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/NLW-2-Discovery/blob/master/LICENSE) para mais detalhes.
