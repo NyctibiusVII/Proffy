@@ -16,6 +16,5 @@ Este projeto é licenciado pelo MIT e isso significa que você pode implementar 
 
 Se você encontrar um problema com este projeto, abra um problema. Certifique-se de incluir:
 
-- Versão do pacote
-- Versões Node e Express
+- Versão do Node
 - Descrição breve, mas completa do problema
